@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Comic+Relief:wght@400;700&display=swap');
+*{
+    margin: auto    ;
+}    
+header {
+        background: #dcdcdc;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        border-bottom: solid 5px #000000;
+        margin-top: solid 5px #000000;
+        padding: 50px;
+    }
+
+h1{
+    font-family: "Archivo Black", sans-serif;
+    font-size: 50px;
+}
+
+h2,h3,h4,h5{
+    font-family: "Comic Relief", system-ui;
+}
+
+#frase-favorita{
+    font-family: "Comic Relief", system-ui;
+}
+
+    p{
+        color: #383838;
+        font-family: "Caveat", cursive;
+    }   
+    #foto-perfil {
+        width: 300px;
+        border-radius: 10%;
+        float: center;
+    }
